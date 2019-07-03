@@ -14,10 +14,8 @@
 - [深度学习500问 ](https://github.com/scutan90/DeepLearning-500-questions ) by scutan90
 - [AI算法工程师手册](https://github.com/Jack-Cherish/Machine-Learning) by 华校专
 - [Google机器学习速成课程](https://developers.google.cn/machine-learning/crash-course/)
+
 ## Programming Language
-
-
-
 ### Python
 - [Python - 100天从新手到大师 ](https://github.com/jackfrued/Python-100-Days ) by jackfrued
 - [Python教程](https://www.liaoxuefeng.com/wiki/1016959663602400) by 廖雪峰
@@ -35,12 +33,17 @@
 
 
 ### Web
-
-
+- [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) by 淘宝团队
+- [JavaScript核心概念及实践](http://icodeit.org/jsccp/)
 
 ## Data Structures and Algorithms
 - [数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo) by 王争
 
+## Operating System
+- [Mac 开发配置手册](https://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
+- [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
+## Editor
+- [Vim中文文档](https://github.com/vimcn/vimcdoc)
 ## Other
 
 
