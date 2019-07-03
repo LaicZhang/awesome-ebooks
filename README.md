@@ -19,9 +19,9 @@
 
 
 ### Python
-
 - [Python - 100天从新手到大师 ](https://github.com/jackfrued/Python-100-Days ) by jackfrued
-
+- [Python教程](https://www.liaoxuefeng.com/wiki/1016959663602400) by 廖雪峰
+- [Python 3.3 官方教程中文版](http://www.pythondoc.com/pythontutorial3/index.html)
 ### C
 
 
