@@ -29,6 +29,10 @@
 #### Numpy Technology Stack
 - [NumPy 中文文档](https://github.com/apachecn/numpy-doc-zh)
 - [Pandas 中文文档](https://github.com/apachecn/pandas-doc-zh)
+- [Matplotlib 中文文档](https://github.com/apachecn/matplotlib-doc-zh)
+- [Sklearn 0.19 中文文档](https://github.com/apachecn/scikit-learn-doc-zh)
+- [statsmodels 中文文档](https://github.com/apachecn/statsmodels_doc_zh)
+- [seaborn 0.9 中文文档](https://github.com/apachecn/seaborn-doc-zh)
 
 ### C
 - [笨办法学 C 中文版](https://github.com/apachecn/lcthw-zh)
