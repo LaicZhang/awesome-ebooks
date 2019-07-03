@@ -36,7 +36,7 @@
   - [seaborn 0.9 中文文档](https://github.com/apachecn/seaborn-doc-zh)
 
 ### C
-- [笨办法学 C 中文版](https://github.com/apachecn/lcthw-zh)
+- [笨办法学 C 中文版](https://github.com/apachecn/lcthw-zh) by ApachenCN
 
 
 ### C++
@@ -56,7 +56,7 @@
 - [ThinkPHP3.2完全开发手册](http://document.thinkphp.cn/manual_3_2.html)
 
 ## Database
-- [SQL教程](https://www.liaoxuefeng.com/wiki/1177760294764384)  by 廖雪峰
+- [SQL教程](https://www.liaoxuefeng.com/wiki/1177760294764384) by 廖雪峰
 
 ## Web
 - [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) by 淘宝团队
