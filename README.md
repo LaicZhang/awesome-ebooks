@@ -17,12 +17,12 @@
 - [Scikit-Learn与TensorFlow机器学习实用指南](https://github.com/apachecn/ml-mastery-zh)
 - [The Hundred-Page Machine Learning Book(百页机器学习书)](http://themlbook.com/wiki/doku.php?id=start)
 - [Girls-In-AI](https://github.com/YZHANG1270/Girls-In-AI)
-
+- [动手学深度学习](http://zh.d2l.ai/index.html) by 李沐
 ## Programming Language
 ### Python
 - [A Byte of Python（简明 Python 教程）](https://wizardforcel.gitbooks.io/a-byte-of-python/content/)
 - [Python Cookbook](https://python3-cookbook.readthedocs.io/zh_CN/latest/)
-- [Python - 100天从新手到大师 ](https://github.com/jackfrued/Python-100-Days ) by jackfrued
+- [Python - 100天从新手到大师 ](http李沐s://github.com/jackfrued/Python-100-Days ) by jackfrued
 - [Python教程](https://www.liaoxuefeng.com/wiki/1016959663602400) by 廖雪峰
 - [简明python教程](https://woodpecker.org.cn/abyteofpython_cn/chinese/)
 - [Python 3.3 官方教程中文版](http://www.pythondoc.com/pythontutorial3/index.html)
