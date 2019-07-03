@@ -52,6 +52,7 @@
 - [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
 - [w3school在线教程](http://themlbook.com/wiki/doku.php?id=start)
 - [现代 JavaScript 教程](https://zh.javascript.info/)
+- [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/) by 阮一峰
 ## Git
 - [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600) by 廖雪峰
 
