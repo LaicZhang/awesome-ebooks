@@ -15,6 +15,7 @@
 - [AI算法工程师手册](https://github.com/Jack-Cherish/Machine-Learning) by 华校专
 - [Google机器学习速成课程](https://developers.google.cn/machine-learning/crash-course/)
 - [Scikit-Learn与TensorFlow机器学习实用指南](https://github.com/apachecn/ml-mastery-zh)
+- [The Hundred-Page Machine Learning Book(百页机器学习书)](http://themlbook.com/wiki/doku.php?id=start)
 ## Programming Language
 ### Python
 - [A Byte of Python（简明 Python 教程）](https://wizardforcel.gitbooks.io/a-byte-of-python/content/)
