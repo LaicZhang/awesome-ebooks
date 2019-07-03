@@ -45,7 +45,7 @@
 ## Editor
 - [Vim中文文档](https://github.com/vimcn/vimcdoc)
 ## Other
-
+- [Android官方培训课程中文版(v0.9.7)](http://hukai.me/android-training-course-in-chinese/index.html) by Google Android团队
 
 
  
