@@ -16,7 +16,7 @@
 - [Google机器学习速成课程](https://developers.google.cn/machine-learning/crash-course/)
 - [Scikit-Learn与TensorFlow机器学习实用指南](https://github.com/apachecn/ml-mastery-zh)
 - [The Hundred-Page Machine Learning Book(百页机器学习书)](http://themlbook.com/wiki/doku.php?id=start)
-
+- [Girls-In-AI](https://github.com/YZHANG1270/Girls-In-AI)
 
 ## Programming Language
 ### Python
@@ -26,6 +26,9 @@
 - [Python教程](https://www.liaoxuefeng.com/wiki/1016959663602400) by 廖雪峰
 - [Python 3.3 官方教程中文版](http://www.pythondoc.com/pythontutorial3/index.html)
 - [Django 中文文档](https://django-chinese-docs.readthedocs.io/en/latest/)
+#### Numpy Technology Stack
+- [NumPy 中文文档](https://github.com/apachecn/numpy-doc-zh)
+- [Pandas 中文文档](https://github.com/apachecn/pandas-doc-zh)
 
 ### C
 
