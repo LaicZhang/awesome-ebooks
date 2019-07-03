@@ -71,7 +71,7 @@
 
 ## Data Structures and Algorithms
 - [数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo) by 王争
-
+- [白话经典算法](https://blog.csdn.net/MoreWindows/column/info/algorithm-easyword)
 ## Operating System
 - [Mac 开发配置手册](https://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
 - [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
