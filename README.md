@@ -83,5 +83,6 @@
 ## Other
 - [一份其实很短的 LaTeX 入门文档](https://liam.page/2014/09/08/latex-introduction/)
 
-
- 
+# Contribution
+ Welcome everyone to contribute to this project！
+ 欢迎各位为这个项目作出贡献！
