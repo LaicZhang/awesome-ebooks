@@ -16,6 +16,8 @@
 - [Google机器学习速成课程](https://developers.google.cn/machine-learning/crash-course/)
 - [Scikit-Learn与TensorFlow机器学习实用指南](https://github.com/apachecn/ml-mastery-zh)
 - [The Hundred-Page Machine Learning Book(百页机器学习书)](http://themlbook.com/wiki/doku.php?id=start)
+
+
 ## Programming Language
 ### Python
 - [A Byte of Python（简明 Python 教程）](https://wizardforcel.gitbooks.io/a-byte-of-python/content/)
@@ -24,6 +26,7 @@
 - [Python教程](https://www.liaoxuefeng.com/wiki/1016959663602400) by 廖雪峰
 - [Python 3.3 官方教程中文版](http://www.pythondoc.com/pythontutorial3/index.html)
 - [Django 中文文档](https://django-chinese-docs.readthedocs.io/en/latest/)
+
 ### C
 
 
@@ -35,6 +38,7 @@
 ### Java
 - [Java教程](https://wizardforcel.gitbooks.io/a-byte-of-python/content/) by 廖雪峰
 - [Java工程师SSH教程从零打造在线网盘系统](https://github.com/jimisun123/ssh-network-hard-disk)
+
 ## Database
 - [SQL教程](https://www.liaoxuefeng.com/wiki/1177760294764384)  by 廖雪峰
 
@@ -43,6 +47,7 @@
 - [JavaScript核心概念及实践](http://icodeit.org/jsccp/)
 - [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
 - [w3school在线教程](http://themlbook.com/wiki/doku.php?id=start)
+- [现代 JavaScript 教程](https://zh.javascript.info/)
 ## Git
 - [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600) by 廖雪峰
 
