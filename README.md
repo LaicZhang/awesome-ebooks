@@ -61,6 +61,7 @@
 ## Operating System
 - [Mac 开发配置手册](https://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
 - [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
+- [Linux命令大全（手册）](http://man.linuxde.net/)
 
 ## Editor
 - [Vim中文文档](https://github.com/vimcn/vimcdoc)
