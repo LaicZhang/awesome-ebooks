@@ -5,7 +5,7 @@
 
 涵盖：人工智能、编程语言、计算机系统、网络协议、版本管理、编译器、数据库、代码艺术、测试、程序员职业修炼等相关书籍。
 
-如有侵权，请联系删除！
+<b>收录内容均为开源作品，如有侵权，请联系删除！</b>
 
 ## Artificial Intelligence
 - [机器学习实战](https://github.com/Jack-Cherish/Machine-Learning) by Jack-Cui
