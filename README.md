@@ -1,7 +1,49 @@
 # awsome-ebooks
 📚开源的经典技术书籍 PDF 文件及相关网站，持续更新中...
 
-## Foreword
-📚经典技术书籍 PDF 文件，涵盖：编程语言、计算机系统、网络协议、数据库、代码艺术、设计模式、算法与数据结构、系统架构、微服务、测试、程序员职业修炼等相关书籍。
+# Foreword
+
+涵盖：人工智能、编程语言、计算机系统、网络协议、数据库、代码艺术、设计模式、算法与数据结构、系统架构、微服务、测试、程序员职业修炼等相关书籍。
 
 如有侵权，请联系删除！
+
+## Artificial Intelligence
+
+- [吴恩达老师的机器学习课程个人笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes ) by 黄博
+
+- [吴恩达老师的深度学习课程笔记及资源 ](https://github.com/fengdu78/deeplearning_ai_books ) by 黄博
+- [深度学习500问 ](https://github.com/scutan90/DeepLearning-500-questions ) by scutan90
+
+
+
+## Programming Language
+
+
+
+### Python
+
+- [Python - 100天从新手到大师 ](https://github.com/jackfrued/Python-100-Days ) by jackfrued
+
+### C
+
+
+
+### C++
+
+
+
+### Java
+
+
+
+### Web
+
+
+
+## Data Structures and Algorithms
+
+
+
+
+
+ 
