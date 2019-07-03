@@ -12,8 +12,8 @@
 - [吴恩达老师的机器学习课程个人笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes ) by 黄博
 - [吴恩达老师的深度学习课程笔记及资源 ](https://github.com/fengdu78/deeplearning_ai_books ) by 黄博
 - [深度学习500问 ](https://github.com/scutan90/DeepLearning-500-questions ) by scutan90
-- [AI算法工程师手册](https://github.com/Jack-Cherish/Machine-Learning)
-
+- [AI算法工程师手册](https://github.com/Jack-Cherish/Machine-Learning) by 华校专
+- [Google机器学习速成课程](https://developers.google.cn/machine-learning/crash-course/)
 ## Programming Language
 
 
