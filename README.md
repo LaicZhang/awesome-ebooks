@@ -52,6 +52,7 @@
 
 ### PHP
 - [PHP手册](https://yq.aliyun.com/download/2720?utm_content=m_1000019584)
+- [ThinkPHP3.2完全开发手册](http://document.thinkphp.cn/manual_3_2.html)
 
 ## Database
 - [SQL教程](https://www.liaoxuefeng.com/wiki/1177760294764384)  by 廖雪峰
