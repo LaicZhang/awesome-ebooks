@@ -1,9 +1,11 @@
 # awsome-ebooks
+![](https://img.shields.io/badge/language-markdown-red.svg) ![](https://img.shields.io/badge/source-Open_source-blue.svg)
+
 📚开源的经典技术书籍 PDF 文件及相关网站，持续更新中...
 
 # Foreword
 
-涵盖：人工智能、编程语言、计算机系统、网络协议、版本管理、编译器、数据库、代码艺术、测试、程序员职业修炼等相关书籍。
+涵盖人工智能、编程语言、计算机系统、版本管理、编译器、数据库、代码艺术、测试、程序员职业修炼等相关书籍。
 
 <b>收录内容均为开源作品，如有侵权，请联系删除！</b>
 
