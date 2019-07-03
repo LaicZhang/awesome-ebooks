@@ -63,6 +63,7 @@
 - [w3school在线教程](http://themlbook.com/wiki/doku.php?id=start)
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 - [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/) by 阮一峰
+- [学用JavaScript设计模式](https://www.oschina.net/translate/learning-javascript-design-patterns) by 开源中国
 ## Git
 - [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600) by 廖雪峰
 
