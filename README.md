@@ -31,7 +31,7 @@
 - [Pandas 中文文档](https://github.com/apachecn/pandas-doc-zh)
 
 ### C
-
+- [笨办法学 C 中文版](https://github.com/apachecn/lcthw-zh)
 
 
 ### C++
