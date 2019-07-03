@@ -14,9 +14,10 @@
 - [深度学习500问 ](https://github.com/scutan90/DeepLearning-500-questions ) by scutan90
 - [AI算法工程师手册](https://github.com/Jack-Cherish/Machine-Learning) by 华校专
 - [Google机器学习速成课程](https://developers.google.cn/machine-learning/crash-course/)
-
+- [Scikit-Learn与TensorFlow机器学习实用指南](https://github.com/apachecn/ml-mastery-zh)
 ## Programming Language
 ### Python
+- [A Byte of Python（简明 Python 教程）](https://wizardforcel.gitbooks.io/a-byte-of-python/content/)
 - [Python Cookbook](https://python3-cookbook.readthedocs.io/zh_CN/latest/)
 - [Python - 100天从新手到大师 ](https://github.com/jackfrued/Python-100-Days ) by jackfrued
 - [Python教程](https://www.liaoxuefeng.com/wiki/1016959663602400) by 廖雪峰
