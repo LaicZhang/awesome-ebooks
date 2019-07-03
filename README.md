@@ -26,13 +26,13 @@
 - [Python教程](https://www.liaoxuefeng.com/wiki/1016959663602400) by 廖雪峰
 - [Python 3.3 官方教程中文版](http://www.pythondoc.com/pythontutorial3/index.html)
 - [Django 中文文档](https://django-chinese-docs.readthedocs.io/en/latest/)
-#### Numpy Technology Stack
-- [NumPy 中文文档](https://github.com/apachecn/numpy-doc-zh)
-- [Pandas 中文文档](https://github.com/apachecn/pandas-doc-zh)
-- [Matplotlib 中文文档](https://github.com/apachecn/matplotlib-doc-zh)
-- [Sklearn 0.19 中文文档](https://github.com/apachecn/scikit-learn-doc-zh)
-- [statsmodels 中文文档](https://github.com/apachecn/statsmodels_doc_zh)
-- [seaborn 0.9 中文文档](https://github.com/apachecn/seaborn-doc-zh)
+- Numpy Technology Stack by ApacheCN
+  - [NumPy 中文文档](https://github.com/apachecn/numpy-doc-zh)
+  - [Pandas 中文文档](https://github.com/apachecn/pandas-doc-zh)
+  - [Matplotlib 中文文档](https://github.com/apachecn/matplotlib-doc-zh)
+  - [Sklearn 0.19 中文文档](https://github.com/apachecn/scikit-learn-doc-zh)
+  - [statsmodels 中文文档](https://github.com/apachecn/statsmodels_doc_zh)
+  - [seaborn 0.9 中文文档](https://github.com/apachecn/seaborn-doc-zh)
 
 ### C
 - [笨办法学 C 中文版](https://github.com/apachecn/lcthw-zh)
