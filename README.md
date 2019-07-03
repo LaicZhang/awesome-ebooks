@@ -18,6 +18,8 @@
 - [The Hundred-Page Machine Learning Book(百页机器学习书)](http://themlbook.com/wiki/doku.php?id=start)
 - [Girls-In-AI](https://github.com/YZHANG1270/Girls-In-AI)
 - [动手学深度学习](http://zh.d2l.ai/index.html) by 李沐
+- [台湾大学林轩田机器学习基石配套教材Learning From Data](http://amlbook.com/)
+
 ## Programming Language
 ### Python
 - [A Byte of Python（简明 Python 教程）](https://wizardforcel.gitbooks.io/a-byte-of-python/content/)
