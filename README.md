@@ -20,6 +20,7 @@
 - [Python - 100天从新手到大师 ](https://github.com/jackfrued/Python-100-Days ) by jackfrued
 - [Python教程](https://www.liaoxuefeng.com/wiki/1016959663602400) by 廖雪峰
 - [Python 3.3 官方教程中文版](http://www.pythondoc.com/pythontutorial3/index.html)
+- [Django 中文文档](https://django-chinese-docs.readthedocs.io/en/latest/)
 ### C
 
 
@@ -35,7 +36,7 @@
 ### Web
 - [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) by 淘宝团队
 - [JavaScript核心概念及实践](http://icodeit.org/jsccp/)
-
+- [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
 ## Data Structures and Algorithms
 - [数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo) by 王争
 
