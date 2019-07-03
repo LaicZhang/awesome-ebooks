@@ -43,6 +43,7 @@
 - [Boost C++ 类库](https://theboostcpplibraries.com/)
 - [像计算机科学家一样思考：C++](http://greenteapress.com/thinkcpp/index.html)
 - [C++ 并发编程指南](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice) by 傅海平ICT
+- [C/C++ Primer](https://github.com/andycai/cprimer)
 
 ### Java
 - [Java教程](https://wizardforcel.gitbooks.io/a-byte-of-python/content/) by 廖雪峰
