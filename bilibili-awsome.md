@@ -14,6 +14,7 @@
 ### Java
 - [【尚学堂】Java300集2019版--高淇](https://www.bilibili.com/video/av29306544?from=search&seid=3408216665157476102)
 - [【千峰教育】Java工程师 2038集（压缩版/实战）](https://www.bilibili.com/video/av47441209?from=search&seid=6857057467750107120)
+- [黑马程序员_毕向东_Java基础视频教程](https://www.bilibili.com/video/av33655233?from=search&seid=6857057467750107120)
 ### Web
 
 ### C/Cpp
