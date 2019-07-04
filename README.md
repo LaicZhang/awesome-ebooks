@@ -22,6 +22,7 @@
 - [Girls-In-AI](https://github.com/YZHANG1270/Girls-In-AI)
 - [动手学深度学习](http://zh.d2l.ai/index.html) by 李沐
 - [台湾大学林轩田机器学习基石配套教材Learning From Data](http://amlbook.com/)
+- [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial)
 
 ## Programming Language
 ### Python
