@@ -21,7 +21,8 @@
 - [2019黑马最新JavaWeb入门到入土（idea版）](https://www.bilibili.com/video/av50351111?from=search&seid=220991621335181538)
 - [JavaWeb视频教程（JSP/Servlet/上传/下载/分页/MVC/三层架构/Ajax）](https://www.bilibili.com/video/av29086718?from=search&seid=7026835406027389743)
 ### C/Cpp
-
+- [郝斌C语言自学教程](https://www.bilibili.com/video/av8074534?from=search&seid=14704683881196584849)
+- [【清华大学】C++语言程序设计(基础&进阶228p)](https://www.bilibili.com/video/av28842036?from=search&seid=14704683881196584849)
 ## Git
 - [最新Git&GitHub 从入门到精通](https://www.bilibili.com/video/av53325547?from=search&seid=15556817393499511459)
 
