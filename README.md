@@ -1,5 +1,6 @@
 # awsome-ebooks
-![](https://img.shields.io/badge/language-markdown-red.svg) ![](https://img.shields.io/badge/source-Open_source-blue.svg)
+![](https://img.shields.io/badge/language-markdown-red.svg) ![](https://img.shields.io/badge/source-Open_source-blue.svg) ![](https://img.shields.io/badge/type-ebook-green.svg)
+
 
 📚开源的经典技术书籍 PDF 文件及相关网站，持续更新中...
 
