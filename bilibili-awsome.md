@@ -21,6 +21,8 @@
 - [2019黑马最新JavaWeb入门到入土（idea版）](https://www.bilibili.com/video/av50351111?from=search&seid=220991621335181538)
 ### C/Cpp
 
+## Git
+- [最新Git&GitHub 从入门到精通](https://www.bilibili.com/video/av53325547?from=search&seid=15556817393499511459)
 
 ## Operating System
 
