@@ -8,7 +8,7 @@
 ## Artificial Intelligence
 - [机器学习（Machine Learning）- 吴恩达（Andrew Ng）](https://www.bilibili.com/video/av9912938?from=search&seid=2513490370148952124)
 - [李宏毅机器学习(2017)](https://www.bilibili.com/video/av10590361?from=search&seid=2513490370148952124)
-
+- [机器学习及其Matlab实现【13集】](https://www.bilibili.com/video/av17850814?from=search&seid=5909433101348655511)
 
 
 
