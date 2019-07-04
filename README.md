@@ -56,6 +56,7 @@
 - [Java工程师SSH教程从零打造在线网盘系统](https://github.com/jimisun123/ssh-network-hard-disk)
 - [阿里巴巴Java开发手册（详尽版）1.4.0](https://yq.aliyun.com/download/2720?utm_content=m_1000019584)
 - [Android官方培训课程中文版(v0.9.7)](http://hukai.me/android-training-course-in-chinese/index.html) by Google Android团队
+
 ### PHP
 - [PHP手册](https://yq.aliyun.com/download/2720?utm_content=m_1000019584)
 - [ThinkPHP3.2完全开发手册](http://document.thinkphp.cn/manual_3_2.html)
@@ -71,12 +72,15 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 - [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/) by 阮一峰
 - [学用JavaScript设计模式](https://www.oschina.net/translate/learning-javascript-design-patterns) by 开源中国
+
 ## Git
 - [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600) by 廖雪峰
 
 ## Data Structures and Algorithms
 - [数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo) by 王争
 - [白话经典算法](https://blog.csdn.net/MoreWindows/column/info/algorithm-easyword)
+- [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
+
 ## Operating System
 - [Mac 开发配置手册](https://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
 - [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
