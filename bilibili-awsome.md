@@ -1,5 +1,5 @@
 # bilibili-awsome
-作为awsome-ebooks项目的补充，仅收录bilibili及其他视频网站中的~~免费~~开源视频。
+作为[awsome-ebooks](https://github.com/LaicZhang/awsome-ebooks/blob/master/bilibili-awsome.md)项目的补充，仅收录bilibili及其他视频网站中的~~免费~~开源视频。
 
 涵盖范围在awesome-ebooks的基础上增加期末考试，考研，运筹学，博弈论，优秀讲座等内容。
 
