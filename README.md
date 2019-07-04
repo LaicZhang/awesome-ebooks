@@ -76,6 +76,7 @@
 
 ## Git
 - [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600) by 廖雪峰
+- [Git 参考手册](http://gitref.justjavac.com/)
 
 ## Data Structures and Algorithms
 - [数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo) by 王争
