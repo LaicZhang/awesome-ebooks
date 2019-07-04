@@ -19,6 +19,7 @@
 - [黑马程序员_毕向东_Java基础视频教程](https://www.bilibili.com/video/av33655233?from=search&seid=6857057467750107120)
 ### Web
 - [2019黑马最新JavaWeb入门到入土（idea版）](https://www.bilibili.com/video/av50351111?from=search&seid=220991621335181538)
+- [JavaWeb视频教程（JSP/Servlet/上传/下载/分页/MVC/三层架构/Ajax）](https://www.bilibili.com/video/av29086718?from=search&seid=7026835406027389743)
 ### C/Cpp
 
 ## Git
