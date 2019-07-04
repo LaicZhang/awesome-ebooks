@@ -25,6 +25,7 @@
 ## Operating System
 
 ## Data Structures and Algorithms
+- [（完结）（小甲鱼）数据结构和算法](https://www.bilibili.com/video/av2975983?from=search&seid=4101679411041823402)
 
 ## Final Exam
 
@@ -35,8 +36,10 @@
   - [计算机网络精讲+习题讲解+冲刺](https://www.bilibili.com/video/av40248430?from=search&seid=4872763619936383919)
   - [计算机组成原理精讲+习题讲解+冲刺](https://www.bilibili.com/video/av39642369?from=search&seid=4872763619936383919)
   - [操作系统精讲+习题讲解+冲刺](https://www.bilibili.com/video/av40250778?from=search&seid=4872763619936383919)
+  
 ## Lecture
 - [运筹学考点精讲视频（46课时）](https://www.bilibili.com/video/av17640911?from=search&seid=10061939977698871693)
 - [耶鲁大学：博弈论（中英双语字幕）](https://www.bilibili.com/video/av41333177?from=search&seid=13519059917002755793)
 
 ## Other
+- [编译原理（哈工大）](https://www.bilibili.com/video/av17649289?from=search&seid=9708352006928317547)
