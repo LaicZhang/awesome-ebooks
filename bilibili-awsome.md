@@ -49,8 +49,8 @@
   - [王道视频课件PPT](https://github.com/Alennnn/WangDaoPPT)
   
 ## Lecture
-- [运筹学考点精讲视频（46课时）](https://www.bilibili.com/video/av17640911?from=search&seid=10061939977698871693)
-- [耶鲁大学：博弈论（中英双语字幕）](https://www.bilibili.com/video/av41333177?from=search&seid=13519059917002755793)
 
 ## Other
 - [编译原理（哈工大）](https://www.bilibili.com/video/av17649289?from=search&seid=9708352006928317547)
+- [运筹学考点精讲视频（46课时）](https://www.bilibili.com/video/av17640911?from=search&seid=10061939977698871693)
+- [耶鲁大学：博弈论（中英双语字幕）](https://www.bilibili.com/video/av41333177?from=search&seid=13519059917002755793)
