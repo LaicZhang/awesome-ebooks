@@ -18,7 +18,7 @@
 - [【千峰教育】Java工程师 2038集（压缩版/实战）](https://www.bilibili.com/video/av47441209?from=search&seid=6857057467750107120)
 - [黑马程序员_毕向东_Java基础视频教程](https://www.bilibili.com/video/av33655233?from=search&seid=6857057467750107120)
 ### Web
-
+- [2019黑马最新JavaWeb入门到入土（idea版）](https://www.bilibili.com/video/av50351111?from=search&seid=220991621335181538)
 ### C/Cpp
 
 
