@@ -34,8 +34,10 @@
 ## Operating System
 - [史上最牛的Linux视频教程—兄弟连](https://www.bilibili.com/video/av18156598?from=search&seid=11080656265729364702)
 - [黑马程序员-linux从入门到精通](https://www.bilibili.com/video/av23360560?from=search&seid=11080656265729364702)
+
 ## Data Structures and Algorithms
 - [（完结）（小甲鱼）数据结构和算法](https://www.bilibili.com/video/av2975983?from=search&seid=4101679411041823402)
+- [数据结构-浙江大学](https://www.bilibili.com/video/av18586085?from=search&seid=5794900743094665780)
 
 ## Final Exam
 
@@ -48,9 +50,12 @@
   - [操作系统精讲+习题讲解+冲刺](https://www.bilibili.com/video/av40250778?from=search&seid=4872763619936383919)
   - [王道视频课件PPT](https://github.com/Alennnn/WangDaoPPT)
   
-## Lecture
+## Adobe Series
+- [史上最容易听懂的PS入门基础教程](https://www.bilibili.com/video/av4548006?from=search&seid=3668996050076566621)
+- [[Pr教程]0基础急速上手视频制作！UP主必备！](https://www.bilibili.com/video/av5540953?from=search&seid=3668996050076566621)
 
 ## Other
 - [编译原理（哈工大）](https://www.bilibili.com/video/av17649289?from=search&seid=9708352006928317547)
 - [运筹学考点精讲视频（46课时）](https://www.bilibili.com/video/av17640911?from=search&seid=10061939977698871693)
 - [耶鲁大学：博弈论（中英双语字幕）](https://www.bilibili.com/video/av41333177?from=search&seid=13519059917002755793)
+- [latex中文教程-15集从入门到精通包含各种latex操作](https://www.bilibili.com/video/av16002978?from=search&seid=1348541017391062894)
