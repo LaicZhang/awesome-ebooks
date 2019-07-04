@@ -46,6 +46,7 @@
   - [计算机网络精讲+习题讲解+冲刺](https://www.bilibili.com/video/av40248430?from=search&seid=4872763619936383919)
   - [计算机组成原理精讲+习题讲解+冲刺](https://www.bilibili.com/video/av39642369?from=search&seid=4872763619936383919)
   - [操作系统精讲+习题讲解+冲刺](https://www.bilibili.com/video/av40250778?from=search&seid=4872763619936383919)
+  - [王道视频课件PPT](https://github.com/Alennnn/WangDaoPPT)
   
 ## Lecture
 - [运筹学考点精讲视频（46课时）](https://www.bilibili.com/video/av17640911?from=search&seid=10061939977698871693)
