@@ -1,9 +1,12 @@
 # bilibili-awsome
+
 作为[awsome-ebooks](https://github.com/LaicZhang/awsome-ebooks/blob/master/bilibili-awsome.md)项目的补充，仅收录bilibili及其他视频网站中的~~免费~~开源视频。
 
 涵盖范围在awesome-ebooks的基础上增加期末考试，考研，运筹学，博弈论，优秀讲座等内容。
 
 原则上是按照bilibili收藏量和点击量作为收录标准的，如有侵权，请联系删除。
+
+欢迎技术向UP主留下链接！贡献方法参考：[Contribution.md](https://github.com/LaicZhang/awsome-ebooks/Contribution.md)
 
 ## Artificial Intelligence
 - [机器学习（Machine Learning）- 吴恩达（Andrew Ng）](https://www.bilibili.com/video/av9912938?from=search&seid=2513490370148952124)
