@@ -3,6 +3,8 @@
 
 涵盖范围在awesome-ebooks的基础上增加期末考试，考研，运筹学，博弈论，优秀讲座等内容。
 
+原则上是按照bilibili收藏量和点击量作为收录标准的，如有侵权，请联系删除。
+
 ## Artificial Intelligence
 
 ## Programming Language
