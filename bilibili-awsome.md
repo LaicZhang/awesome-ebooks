@@ -7,8 +7,12 @@
 
 ## Programming Language
 ### Python
+- [Python教程_600集Python从入门到精通教程（懂中文就能学会）](https://www.bilibili.com/video/av14184325?from=search&seid=3408216665157476102) by 黑马程序员
+- [千锋python全套视频教程，400全集](https://www.bilibili.com/video/av19956343?from=search&seid=3408216665157476102)
+- [[小甲鱼]零基础入门学习Python](https://www.bilibili.com/video/av4050443?from=search&seid=11505434264789025700)
 
 ### Java
+- [【尚学堂】Java300集2019版--高淇](https://www.bilibili.com/video/av29306544?from=search&seid=3408216665157476102)
 
 ### Web
 
