@@ -97,7 +97,7 @@
 - [Leetcode 简略题解 - 共567题](https://zhuanlan.zhihu.com/p/25697275) by 朱里
 - 利用WordPress的[网站建设：个人网站快速搭建教程（超详细）](https://cuijiahua.com/blog/2018/10/website-20.html) by Jack-Cui
 - [书籍推荐列表](https://www.liuchuo.net/222-2) by 柳婼
-
+- [TIANCHI天池-OGeek算法挑战赛分享（亚军）](https://zhuanlan.zhihu.com/p/51422621) by 鱼遇雨欲语与余
 
 
 
