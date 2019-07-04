@@ -27,6 +27,7 @@
 - [最新Git&GitHub 从入门到精通](https://www.bilibili.com/video/av53325547?from=search&seid=15556817393499511459)
 
 ## Operating System
+- [史上最牛的Linux视频教程—兄弟连](https://www.bilibili.com/video/av18156598?from=search&seid=11080656265729364702)
 
 ## Data Structures and Algorithms
 - [（完结）（小甲鱼）数据结构和算法](https://www.bilibili.com/video/av2975983?from=search&seid=4101679411041823402)
