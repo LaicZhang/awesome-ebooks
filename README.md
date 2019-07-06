@@ -4,6 +4,8 @@
 
 📚开源的经典技术书籍 PDF 文件及相关网站，持续更新中...
 
+https://github.com/LaicZhang/awsome-ebooks
+
 # Foreword
 
 涵盖人工智能、编程语言、计算机系统、版本管理、编译器、数据库、代码艺术、测试、程序员职业修炼等相关书籍。
