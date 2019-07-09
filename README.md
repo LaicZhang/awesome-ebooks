@@ -101,8 +101,9 @@ https://github.com/LaicZhang/awsome-ebooks
 - [书籍推荐列表](https://www.liuchuo.net/222-2) by 柳婼
 - [TIANCHI天池-OGeek算法挑战赛分享（亚军）](https://zhuanlan.zhihu.com/p/51422621) by 鱼遇雨欲语与余
 
-
-
+# Related items
+- [bilibili-awesome](https://github.com/LaicZhang/awesome-ebooks/blob/master/bilibili-awsome.md)
+- [software-awesome]()
 
 # Contribution
  Welcome everyone to contribute to this project！
