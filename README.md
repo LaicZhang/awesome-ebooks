@@ -75,7 +75,8 @@ https://github.com/LaicZhang/awsome-ebooks
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 - [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/) by 阮一峰
 - [学用JavaScript设计模式](https://www.oschina.net/translate/learning-javascript-design-patterns) by 开源中国
-
+- [jQuery API 中文文档](https://www.jquery123.com/)
+- [jQuery 1.12.1 速查表](http://hemin.cn/jq/) by hemin
 ## Git
 - [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600) by 廖雪峰
 - [Git 参考手册](http://gitref.justjavac.com/)
