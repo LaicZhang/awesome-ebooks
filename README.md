@@ -72,7 +72,7 @@ https://github.com/LaicZhang/awsome-ebooks
 - [SQL教程](https://www.liaoxuefeng.com/wiki/1177760294764384) by 廖雪峰
 - [MySQL 教程](https://www.runoob.com/mysql/mysql-tutorial.html) by 菜鸟教程
 - [MySQL教程](https://www.yiibai.com/mysql/) by 易百教程
-
+- [MySQL 中文教程](http://wiki.jikexueyuan.com/project/mysql/) by 极客学院wiki
 
 ## Web
 - [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) by 淘宝团队
