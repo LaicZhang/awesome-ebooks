@@ -71,6 +71,8 @@ https://github.com/LaicZhang/awsome-ebooks
 ## Database
 - [SQL教程](https://www.liaoxuefeng.com/wiki/1177760294764384) by 廖雪峰
 - [MySQL 教程](https://www.runoob.com/mysql/mysql-tutorial.html) by 菜鸟教程
+- [MySQL教程](https://www.yiibai.com/mysql/) by 易百教程
+
 
 ## Web
 - [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) by 淘宝团队
