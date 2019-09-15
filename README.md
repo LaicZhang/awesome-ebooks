@@ -102,6 +102,8 @@ https://github.com/LaicZhang/awsome-ebooks
 - [书籍推荐列表](https://www.liuchuo.net/222-2) by 柳婼
 - [TIANCHI天池-OGeek算法挑战赛分享（亚军）](https://zhuanlan.zhihu.com/p/51422621) by 鱼遇雨欲语与余
 - [快速搭建一个自己的VPN翻墙科学上网,搭建ss并开启bbr快速上网](https://github.com/wistbean/vpn) by wistean
+- [正则表达式简明参考](https://www.xiaoleilu.com/regex-guide)
+
 
 # Related items
 - [bilibili-awesome](https://github.com/LaicZhang/awesome-ebooks/blob/master/bilibili-awsome.md)
