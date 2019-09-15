@@ -26,7 +26,7 @@ https://github.com/LaicZhang/awsome-ebooks
 - [台湾大学林轩田机器学习基石配套教材Learning From Data](http://amlbook.com/)
 - [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial)
 - [Machine Learning Yearning 中文版 - 《机器学习训练秘籍》](https://github.com/deeplearning-ai/machine-learning-yearning-cn) by Andrew Ng 
-
+- [床长人工智能教程](https://www.cbedai.net/zhouzhaoxiong1227/) by 床长
 
 
 
