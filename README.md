@@ -25,6 +25,10 @@ https://github.com/LaicZhang/awsome-ebooks
 - [动手学深度学习](http://zh.d2l.ai/index.html) by 李沐
 - [台湾大学林轩田机器学习基石配套教材Learning From Data](http://amlbook.com/)
 - [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial)
+- [Machine Learning Yearning 中文版 - 《机器学习训练秘籍》](https://github.com/deeplearning-ai/machine-learning-yearning-cn) by Andrew Ng 
+
+
+
 
 ## Programming Language
 ### Python
