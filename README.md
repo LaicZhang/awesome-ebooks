@@ -45,7 +45,7 @@ https://github.com/LaicZhang/awsome-ebooks
 
 ### C
 - [笨办法学 C 中文版](https://github.com/apachecn/lcthw-zh) by ApachenCN
-
+- [简单易懂的C魔法](http://www.nowamagic.net/librarys/books/contents/c)
 
 ### C++
 - [C++ 教程](https://www.runoob.com/cplusplus/cpp-tutorial.html) by 菜鸟教程
