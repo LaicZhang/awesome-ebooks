@@ -70,6 +70,7 @@ https://github.com/LaicZhang/awsome-ebooks
 
 ## Database
 - [SQL教程](https://www.liaoxuefeng.com/wiki/1177760294764384) by 廖雪峰
+- [MySQL 教程](https://www.runoob.com/mysql/mysql-tutorial.html) by 菜鸟教程
 
 ## Web
 - [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) by 淘宝团队
@@ -81,6 +82,7 @@ https://github.com/LaicZhang/awsome-ebooks
 - [学用JavaScript设计模式](https://www.oschina.net/translate/learning-javascript-design-patterns) by 开源中国
 - [jQuery API 中文文档](https://www.jquery123.com/)
 - [jQuery 1.12.1 速查表](http://hemin.cn/jq/) by hemin
+
 ## Git
 - [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600) by 廖雪峰
 - [Git 参考手册](http://gitref.justjavac.com/)
