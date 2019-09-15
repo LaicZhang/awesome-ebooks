@@ -99,6 +99,8 @@ https://github.com/LaicZhang/awsome-ebooks
 ## Editor
 - [Vim中文文档](https://github.com/vimcn/vimcdoc)
 - [Atom官方手册](https://atom-china.org/t/atom/62)
+- [Markdown中文文档](https://markdown-zh.readthedocs.io/en/latest/)
+
 ## Other
 - [一份其实很短的 LaTeX 入门文档](https://liam.page/2014/09/08/latex-introduction/)
 - [Leetcode 简略题解 - 共567题](https://zhuanlan.zhihu.com/p/25697275) by 朱里
