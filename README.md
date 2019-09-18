@@ -22,12 +22,11 @@ https://github.com/LaicZhang/awsome-ebooks
 - [Scikit-Learn与TensorFlow机器学习实用指南](https://github.com/apachecn/ml-mastery-zh)
 - [The Hundred-Page Machine Learning Book(百页机器学习书)](http://themlbook.com/wiki/doku.php?id=start)
 - [Girls-In-AI](https://github.com/YZHANG1270/Girls-In-AI)
-- [动手学深度学习](http://zh.d2l.ai/index.html) by 李沐
+- 动手学深度学习 [官网](http://zh.d2l.ai/index.html) [github](https://github.com/d2l-ai/d2l-zh)  by 李沐
 - [台湾大学林轩田机器学习基石配套教材Learning From Data](http://amlbook.com/)
 - [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial)
 - [Machine Learning Yearning 中文版 - 《机器学习训练秘籍》](https://github.com/deeplearning-ai/machine-learning-yearning-cn) by Andrew Ng 
 - [床长人工智能教程](https://www.cbedai.net/zhouzhaoxiong1227/) by 床长
-- [动手学深度学习](https://github.com/d2l-ai/d2l-zh) by 李沐
 
 
 ## Programming Language
