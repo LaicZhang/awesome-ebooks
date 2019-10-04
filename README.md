@@ -49,6 +49,7 @@ https://github.com/LaicZhang/awsome-ebooks
 ### Go
 - [go语言之旅](https://tour.go-zh.org/list)
 - [go web编程](https://go.wuhaolin.cn/build-web-application-with-golang/)
+- [How to Write Go Code](https://golang.org/doc/code.html)
 
 ### C
 - [笨办法学 C 中文版](https://github.com/apachecn/lcthw-zh) by ApachenCN
