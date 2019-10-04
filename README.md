@@ -46,6 +46,10 @@ https://github.com/LaicZhang/awsome-ebooks
   - [statsmodels 中文文档](https://github.com/apachecn/statsmodels_doc_zh)
   - [seaborn 0.9 中文文档](https://github.com/apachecn/seaborn-doc-zh)
 
+### Go
+- [go语言之旅](https://tour.go-zh.org/list)
+- [go web编程](https://go.wuhaolin.cn/build-web-application-with-golang/)
+
 ### C
 - [笨办法学 C 中文版](https://github.com/apachecn/lcthw-zh) by ApachenCN
 - [简单易懂的C魔法](http://www.nowamagic.net/librarys/books/contents/c)
