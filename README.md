@@ -31,6 +31,7 @@ https://github.com/LaicZhang/awsome-ebooks
 
 ## Programming Language
 ### Python
+- [美国国家安全局（NSA）的Python培训文档](https://ia902805.us.archive.org/7/items/comp3321/comp3321.pdf)
 - [A Byte of Python（简明 Python 教程）](https://wizardforcel.gitbooks.io/a-byte-of-python/content/)
 - [Python Cookbook](https://python3-cookbook.readthedocs.io/zh_CN/latest/)
 - [Python - 100天从新手到大师 ](https://github.com/jackfrued/Python-100-Days) by jackfrued
@@ -116,10 +117,13 @@ https://github.com/LaicZhang/awsome-ebooks
 ## Other
 - [一份其实很短的 LaTeX 入门文档](https://liam.page/2014/09/08/latex-introduction/)
 - [Leetcode 简略题解 - 共567题](https://zhuanlan.zhihu.com/p/25697275) by 朱里
-- 利用WordPress的[网站建设：个人网站快速搭建教程（超详细）](https://cuijiahua.com/blog/2018/10/website-20.html) by Jack-Cui
+- [利用WordPress的网站建设：个人网站快速搭建教程（超详细）](https://cuijiahua.com/blog/2018/10/website-20.html) by Jack-Cui
 - [书籍推荐列表](https://www.liuchuo.net/222-2) by 柳婼
 - [TIANCHI天池-OGeek算法挑战赛分享（亚军）](https://zhuanlan.zhihu.com/p/51422621) by 鱼遇雨欲语与余
 - [快速搭建一个自己的VPN翻墙科学上网,搭建ss并开启bbr快速上网](https://github.com/wistbean/vpn) by wistean
+- [ss免费账号1](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
+- [ss免费账号1-备份](http://blog.free-air.org/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7/)
+- [免费ss](https://www.youneed.win/free-ss) by 放牧的风
 - [正则表达式简明参考](https://www.xiaoleilu.com/regex-guide)
 
 
