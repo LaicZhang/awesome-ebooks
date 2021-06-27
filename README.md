@@ -92,6 +92,7 @@ https://github.com/LaicZhang/awsome-ebooks
 - [jQuery API 中文文档](https://www.jquery123.com/)
 - [jQuery 1.12.1 速查表](http://hemin.cn/jq/) by hemin
 - [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#Introduction)
+- [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
 
 ## Git
 - [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600) by 廖雪峰
