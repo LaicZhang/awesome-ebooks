@@ -91,6 +91,7 @@ https://github.com/LaicZhang/awsome-ebooks
 - [学用JavaScript设计模式](https://www.oschina.net/translate/learning-javascript-design-patterns) by 开源中国
 - [jQuery API 中文文档](https://www.jquery123.com/)
 - [jQuery 1.12.1 速查表](http://hemin.cn/jq/) by hemin
+- [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#Introduction)
 
 ## Git
 - [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600) by 廖雪峰
