@@ -93,6 +93,9 @@ https://github.com/LaicZhang/awsome-ebooks
 - [jQuery 1.12.1 速查表](http://hemin.cn/jq/) by hemin
 - [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#Introduction)
 - [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
+- Vue
+  - [ Ant Design Vue官方文档](https://2x.antdv.com/components/overview/)
+  - [Vue3官方文档](https://v3.vuejs.org/)
 
 ## Git
 - [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600) by 廖雪峰
