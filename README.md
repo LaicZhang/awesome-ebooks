@@ -127,9 +127,6 @@ https://github.com/LaicZhang/awsome-ebooks
 - [书籍推荐列表](https://www.liuchuo.net/222-2) by 柳婼
 - [TIANCHI天池-OGeek算法挑战赛分享（亚军）](https://zhuanlan.zhihu.com/p/51422621) by 鱼遇雨欲语与余
 - [快速搭建一个自己的VPN翻墙科学上网,搭建ss并开启bbr快速上网](https://github.com/wistbean/vpn) by wistean
-- [ss免费账号1](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
-- [ss免费账号1-备份](http://blog.free-air.org/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7/)
-- [免费ss](https://www.youneed.win/free-ss) by 放牧的风
 - [正则表达式简明参考](https://www.xiaoleilu.com/regex-guide)
 
 
