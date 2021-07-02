@@ -94,6 +94,7 @@ https://github.com/LaicZhang/awsome-ebooks
 - [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#Introduction)
 - [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
 - [当你在浏览器中输入 google.com 并且按下回车之后发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN)
+- [浅析前端异常及降级处理](https://juejin.cn/post/6979564690787532814)
 - Vue
   - [ Ant Design Vue官方文档](https://2x.antdv.com/components/overview/)
   - [Vue3官方文档](https://v3.vuejs.org/)
@@ -126,7 +127,6 @@ https://github.com/LaicZhang/awsome-ebooks
 - [利用WordPress的网站建设：个人网站快速搭建教程（超详细）](https://cuijiahua.com/blog/2018/10/website-20.html) by Jack-Cui
 - [书籍推荐列表](https://www.liuchuo.net/222-2) by 柳婼
 - [TIANCHI天池-OGeek算法挑战赛分享（亚军）](https://zhuanlan.zhihu.com/p/51422621) by 鱼遇雨欲语与余
-- [快速搭建一个自己的VPN翻墙科学上网,搭建ss并开启bbr快速上网](https://github.com/wistbean/vpn) by wistean
 - [正则表达式简明参考](https://www.xiaoleilu.com/regex-guide)
 
 
