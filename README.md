@@ -103,6 +103,7 @@ https://github.com/LaicZhang/awsome-ebooks
 - [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600) by 廖雪峰
 - [Git 参考手册](http://gitref.justjavac.com/)
 - [GotGitHub](http://www.worldhello.net/gotgithub/index.html)
+- [Github Docs](https://docs.github.com/)
 
 ## Data Structures and Algorithms
 - [数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo) by 王争
@@ -120,6 +121,7 @@ https://github.com/LaicZhang/awsome-ebooks
 - [Vim中文文档](https://github.com/vimcn/vimcdoc)
 - [Atom官方手册](https://atom-china.org/t/atom/62)
 - [Markdown中文文档](https://markdown-zh.readthedocs.io/en/latest/)
+- [Microsoft Visual Studio Code 中文手册](https://jeasonstudio.gitbooks.io/vscode-cn-doc/content/)
 
 ## Other
 - [一份其实很短的 LaTeX 入门文档](https://liam.page/2014/09/08/latex-introduction/)
