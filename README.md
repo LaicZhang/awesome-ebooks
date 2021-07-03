@@ -69,6 +69,7 @@ https://github.com/LaicZhang/awsome-ebooks
 - [Java工程师SSH教程从零打造在线网盘系统](https://github.com/jimisun123/ssh-network-hard-disk)
 - [阿里巴巴Java开发手册（详尽版）1.4.0](https://yq.aliyun.com/download/2720?utm_content=m_1000019584)
 - [Android官方培训课程中文版(v0.9.7)](http://hukai.me/android-training-course-in-chinese/index.html) by Google Android团队
+- [Effective Java 第三版](https://www.jianshu.com/c/ce8cf0e13b23)
 
 ### PHP
 - [PHP手册](https://yq.aliyun.com/download/2720?utm_content=m_1000019584)
