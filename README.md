@@ -99,6 +99,9 @@ https://github.com/LaicZhang/awsome-ebooks
 - Vue
   - [ Ant Design Vue官方文档](https://2x.antdv.com/components/overview/)
   - [Vue3官方文档](https://v3.vuejs.org/)
+  - [深入理解Vue.js实战](https://godbasin.github.io/vue-ebook/)
+- Electron
+  - [Electron Documentation](http://www.electronjs.org/docs)
 
 ## Git
 - [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600) by 廖雪峰
