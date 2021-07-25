@@ -120,6 +120,7 @@ https://github.com/LaicZhang/awsome-ebooks
 - [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
 - [Linux命令大全（手册）](http://man.linuxde.net/)
 - [UNIX 入门指南](https://www.w3cschool.cn/unix/) by w3cschool
+- [ssh教程](https://wangdoc.com/ssh/)
 
 
 ## Editor
