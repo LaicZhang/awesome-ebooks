@@ -103,6 +103,8 @@ https://github.com/LaicZhang/awsome-ebooks
   - [深入理解Vue.js实战](https://godbasin.github.io/vue-ebook/)
 - Electron
   - [Electron Documentation](http://www.electronjs.org/docs)
+- mini program
+  - [小程序官方开发文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
 
 ## Git
 - [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600) by 廖雪峰
