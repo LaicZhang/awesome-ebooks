@@ -105,6 +105,8 @@ https://github.com/LaicZhang/awsome-ebooks
   - [Electron Documentation](http://www.electronjs.org/docs)
 - mini program
   - [小程序官方开发文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
+- Algorithms by JavaScript
+ - [一篇文章让你真正了解快速排序](https://segmentfault.com/a/1190000017314698)
 
 ## Git
 - [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600) by 廖雪峰
