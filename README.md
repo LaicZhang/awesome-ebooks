@@ -96,6 +96,7 @@ https://github.com/LaicZhang/awsome-ebooks
 - [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#Introduction)
 - [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
 - [当你在浏览器中输入 google.com 并且按下回车之后发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN)
+- [神三元的博客](https://sanyuan0704.top)
 - [浅析前端异常及降级处理](https://juejin.cn/post/6979564690787532814)
 - [js构建ui的统一异常处理方案](https://www.cnblogs.com/laden666666/tag/异常处理/)
 - Vue
