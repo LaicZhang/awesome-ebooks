@@ -148,6 +148,7 @@ https://github.com/LaicZhang/awsome-ebooks
 - [正则表达式简明参考](https://www.xiaoleilu.com/regex-guide)
 - [Docker — 从入门到实践](https://github.com/shaoxiongdu/docker_practice)
 - [imooc wiki 多种语言入门教程](http://www.imooc.com/wiki/)
+- [Django-Vue搭建个人博客](https://www.dusaiphoto.com/article/103/)
 
 
 # Related items
