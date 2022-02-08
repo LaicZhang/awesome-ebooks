@@ -109,6 +109,10 @@ https://github.com/LaicZhang/awsome-ebooks
   - [小程序官方开发文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
 - Algorithms by JavaScript
  - [一篇文章让你真正了解快速排序](https://segmentfault.com/a/1190000017314698)
+- Node 
+ [七天学会Node.js](https://nqdeng.github.io/7-days-nodejs/)
+
+
 
 ## Git
 - [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600) by 廖雪峰
