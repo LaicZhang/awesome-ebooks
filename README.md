@@ -132,6 +132,8 @@ https://github.com/LaicZhang/awsome-ebooks
 - [UNIX 入门指南](https://www.w3cschool.cn/unix/) by w3cschool
 - [ssh教程](https://wangdoc.com/ssh/)
 
+## Test
+- [《Jest 实践指南》](https://github.com/haixiangyan/jest-tutorial)
 
 ## Editor
 - [Vim中文文档](https://github.com/vimcn/vimcdoc)
