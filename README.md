@@ -2,9 +2,7 @@
 ![](https://img.shields.io/badge/language-markdown-red.svg) ![](https://img.shields.io/badge/source-Open_source-blue.svg) ![](https://img.shields.io/badge/type-ebook-green.svg)
 
 
-📚开源的经典技术书籍 PDF 文件及相关网站，持续更新中...
-
-https://github.com/LaicZhang/awsome-ebooks
+📚个人收藏的，在某一个瞬间觉得有意思的开源的经典技术书籍 PDF 文件及相关网站，学不学是一回事，先收藏起来。
 
 # Foreword
 
@@ -150,6 +148,7 @@ https://github.com/LaicZhang/awsome-ebooks
 - [Docker — 从入门到实践](https://github.com/shaoxiongdu/docker_practice)
 - [imooc wiki 多种语言入门教程](http://www.imooc.com/wiki/)
 - [Django-Vue搭建个人博客](https://www.dusaiphoto.com/article/103/)
+- [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
 
 
 # Related items
