@@ -102,6 +102,7 @@
   - [ Ant Design Vue官方文档](https://2x.antdv.com/components/overview/)
   - [Vue3官方文档](https://v3.vuejs.org/)
   - [深入理解Vue.js实战](https://godbasin.github.io/vue-ebook/)
+  - [Vue 2.x 风格指南](https://vue.docschina.org/v2/style-guide/)
 - Electron
   - [Electron Documentation](http://www.electronjs.org/docs)
 - mini program
