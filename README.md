@@ -1,7 +1,6 @@
 # awsome-ebooks
 ![](https://img.shields.io/badge/language-markdown-red.svg) ![](https://img.shields.io/badge/source-Open_source-blue.svg) ![](https://img.shields.io/badge/type-ebook-green.svg)
 
-
 📚个人收藏的，在某一个瞬间觉得有意思的开源的经典技术书籍 PDF 文件及相关网站，学不学是一回事，先收藏起来。
 
 # Foreword
@@ -25,8 +24,6 @@
 - [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial)
 - [Machine Learning Yearning 中文版 - 《机器学习训练秘籍》](https://github.com/deeplearning-ai/machine-learning-yearning-cn) by Andrew Ng 
 
-
-
 ## Programming Language
 ### Python
 - [美国国家安全局（NSA）的Python培训文档](https://ia902805.us.archive.org/7/items/comp3321/comp3321.pdf)
@@ -37,14 +34,7 @@
 - [简明python教程](https://woodpecker.org.cn/abyteofpython_cn/chinese/)
 - [Python 3.6.3 官方教程中文版](http://www.pythondoc.com/pythontutorial3/index.html)
 - [Django 中文文档](https://django-chinese-docs.readthedocs.io/en/latest/)
-- Numpy Technology Stack by ApacheCN
-  - [NumPy 中文文档](https://github.com/apachecn/numpy-doc-zh)
-  - [Pandas 中文文档](https://github.com/apachecn/pandas-doc-zh)
-  - [Matplotlib 中文文档](https://github.com/apachecn/matplotlib-doc-zh)
-  - [Sklearn 0.19 中文文档](https://github.com/apachecn/scikit-learn-doc-zh)
-  - [statsmodels 中文文档](https://github.com/apachecn/statsmodels_doc_zh)
-  - [seaborn 0.9 中文文档](https://github.com/apachecn/seaborn-doc-zh)
-
+  
 ### Go
 - [go语言之旅](https://tour.go-zh.org/list)
 - [go web编程](https://go.wuhaolin.cn/build-web-application-with-golang/)
@@ -84,31 +74,28 @@
 - [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) by 淘宝团队
 - [《TCP/IP网络编程》学习笔记](https://github.com/riba2534/TCP-IP-NetworkNote)
 - [JavaScript核心概念及实践](http://icodeit.org/jsccp/)
-- [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
+- [ECMAScript 6 入门](http://es6.ruanyifeng.com/) by 阮一峰
+- [TypeScript 教程](https://wangdoc.com/typescript/) by 阮一峰
 - [w3school在线教程](http://themlbook.com/wiki/doku.php?id=start)
 - [w3schools es6](https://www.w3schools.com/js/js_es6.asp)
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 - [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/) by 阮一峰
 - [学用JavaScript设计模式](https://www.oschina.net/translate/learning-javascript-design-patterns) by 开源中国
 - [jQuery API 中文文档](https://www.jquery123.com/)
-- [jQuery 1.12.1 速查表](http://hemin.cn/jq/) by hemin
 - [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#Introduction)
-- [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
 - [当你在浏览器中输入 google.com 并且按下回车之后发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN)
 - [神三元的博客](https://sanyuan0704.top)
 - [浅析前端异常及降级处理](https://juejin.cn/post/6979564690787532814)
 - [js构建ui的统一异常处理方案](https://www.cnblogs.com/laden666666/tag/异常处理/)
 - Vue
   - [ Ant Design Vue官方文档](https://2x.antdv.com/components/overview/)
-  - [Vue3官方文档](https://v3.vuejs.org/)
+  - [Vue3官方文档](https://vuejs.org/)
   - [深入理解Vue.js实战](https://godbasin.github.io/vue-ebook/)
   - [Vue 2.x 风格指南](https://vue.docschina.org/v2/style-guide/)
 - Electron
   - [Electron Documentation](http://www.electronjs.org/docs)
 - mini program
   - [小程序官方开发文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
-- Algorithms by JavaScript
- - [一篇文章让你真正了解快速排序](https://segmentfault.com/a/1190000017314698)
 - Node 
  [七天学会Node.js](https://nqdeng.github.io/7-days-nodejs/)
 
@@ -122,7 +109,10 @@
 - [数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo) by 王争
 - [白话经典算法](https://blog.csdn.net/MoreWindows/column/info/algorithm-easyword)
 - [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
-
+- [一篇文章让你真正了解快速排序](https://segmentfault.com/a/1190000017314698)
+- [Leetcode 简略题解 - 共567题](https://zhuanlan.zhihu.com/p/25697275) by 朱里
+- [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
+  
 ## Operating System
 - [Mac 开发配置手册](https://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
 - [Linux 命令行(中文版)](http://billie66.github.io/TLCL/book/)
@@ -141,7 +131,6 @@
 
 ## Other
 - [一份其实很短的 LaTeX 入门文档](https://liam.page/2014/09/08/latex-introduction/)
-- [Leetcode 简略题解 - 共567题](https://zhuanlan.zhihu.com/p/25697275) by 朱里
 - [利用WordPress的网站建设：个人网站快速搭建教程（超详细）](https://cuijiahua.com/blog/2018/10/website-20.html) by Jack-Cui
 - [书籍推荐列表](https://www.liuchuo.net/222-2) by 柳婼
 - [TIANCHI天池-OGeek算法挑战赛分享（亚军）](https://zhuanlan.zhihu.com/p/51422621) by 鱼遇雨欲语与余
@@ -155,9 +144,6 @@
 # Related items
 - [bilibili-awesome](https://github.com/LaicZhang/awesome-ebooks/blob/master/bilibili-awsome.md)
 - [software-awesome]()
-- [Tips-awesome]()
-
-# Similar
 
 # Contribution
  Welcome everyone to contribute to this project！
