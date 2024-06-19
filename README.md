@@ -76,28 +76,33 @@
 - [JavaScript核心概念及实践](http://icodeit.org/jsccp/)
 - [ECMAScript 6 入门](http://es6.ruanyifeng.com/) by 阮一峰
 - [TypeScript 教程](https://wangdoc.com/typescript/) by 阮一峰
+- [JavaScript 标准参考教程](https://wangdoc.com/javascript/) by 阮一峰
 - [w3school在线教程](http://themlbook.com/wiki/doku.php?id=start)
 - [w3schools es6](https://www.w3schools.com/js/js_es6.asp)
 - [现代 JavaScript 教程](https://zh.javascript.info/)
-- [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/) by 阮一峰
 - [学用JavaScript设计模式](https://www.oschina.net/translate/learning-javascript-design-patterns) by 开源中国
 - [jQuery API 中文文档](https://www.jquery123.com/)
 - [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#Introduction)
 - [当你在浏览器中输入 google.com 并且按下回车之后发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN)
-- [神三元的博客](https://sanyuan0704.top)
 - [浅析前端异常及降级处理](https://juejin.cn/post/6979564690787532814)
 - [js构建ui的统一异常处理方案](https://www.cnblogs.com/laden666666/tag/异常处理/)
 - Vue
-  - [ Ant Design Vue官方文档](https://2x.antdv.com/components/overview/)
-  - [Vue3官方文档](https://vuejs.org/)
+  - [ Ant Design Vue官方文档](https://www.antdv.com/components/overview/)
+  - [Vue官方文档](https://vuejs.org/)
   - [深入理解Vue.js实战](https://godbasin.github.io/vue-ebook/)
-  - [Vue 2.x 风格指南](https://vue.docschina.org/v2/style-guide/)
+  - ~~[Vue 2.x 风格指南](https://vue.docschina.org/v2/style-guide/)~~
 - Electron
   - [Electron Documentation](http://www.electronjs.org/docs)
 - mini program
   - [小程序官方开发文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
 - Node 
  [七天学会Node.js](https://nqdeng.github.io/7-days-nodejs/)
+- Nest
+  - [next官方文档](https://nextjs.org/docs)
+  - [聊点不一样的 Next.js](https://nextjs-book.innei.in/reading/guide/0.what-this)
+
+## Rust
+- [Rust语言圣经(Rust Course)](https://course.rs/about-book.html)
 
 ## Git
 - [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600) by 廖雪峰
@@ -110,7 +115,7 @@
 - [白话经典算法](https://blog.csdn.net/MoreWindows/column/info/algorithm-easyword)
 - [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
 - [一篇文章让你真正了解快速排序](https://segmentfault.com/a/1190000017314698)
-- [Leetcode 简略题解 - 共567题](https://zhuanlan.zhihu.com/p/25697275) by 朱里
+- [Leetcode 简略题解](https://zhuanlan.zhihu.com/p/25697275) by 朱里
 - [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
   
 ## Operating System
@@ -139,7 +144,7 @@
 - [imooc wiki 多种语言入门教程](http://www.imooc.com/wiki/)
 - [Django-Vue搭建个人博客](https://www.dusaiphoto.com/article/103/)
 - [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
-
+- [速查表](https://wangchujiang.com/reference/index.html)
 
 # Related items
 - [bilibili-awesome](https://github.com/LaicZhang/awesome-ebooks/blob/master/bilibili-awsome.md)
