@@ -41,7 +41,6 @@
 - [Java教程](https://wizardforcel.gitbooks.io/a-byte-of-python/content/) by 廖雪峰
 - [Java工程师SSH教程从零打造在线网盘系统](https://github.com/jimisun123/ssh-network-hard-disk)
 - [阿里巴巴Java开发手册（详尽版）1.4.0](https://yq.aliyun.com/download/2720?utm_content=m_1000019584)
-- [Android官方培训课程中文版(v0.9.7)](http://hukai.me/android-training-course-in-chinese/index.html) by Google Android团队
 - [Effective Java 第三版](https://www.jianshu.com/c/ce8cf0e13b23)
 
 ### PHP
@@ -55,7 +54,7 @@
 - [MySQL 中文教程](http://wiki.jikexueyuan.com/project/mysql/) by 极客学院wiki
 - [1000行 MySQL 学习笔记](https://developer.aliyun.com/article/716940?utm_content=g_1000075048)
 - [Cloudflare D1](https://developers.cloudflare.com/d1/)
-- ORM
+- ORM(node)
   - [Prisma ORM文档](https://www.prisma.io/docs/orm)
   - [Drizzle ORM](https://orm.drizzle.team/docs/overview)
 
@@ -78,6 +77,7 @@
   - [Element Plus文档](https://element-plus.org/zh-CN/component/overview.html)
   - [Ant Design Vue官方文档](https://www.antdv.com/components/overview/)
   - [Vue官方文档](https://vuejs.org/)
+  - [Radix Vue文档](https://www.radix-vue.com/overview/introduction)
   - [深入理解Vue.js实战](https://godbasin.github.io/vue-ebook/)
   - ~~[Vue 2.x 风格指南](https://vue.docschina.org/v2/style-guide/)~~
 - Electron
@@ -131,10 +131,11 @@
 
 ## Test
 - [《Jest 实践指南》](https://github.com/haixiangyan/jest-tutorial)
+- [Vitest 文档](https://vitest.dev/guide/)
 
 ## Editor
 - [Vim中文文档](https://github.com/vimcn/vimcdoc)
-- [Atom官方手册](https://atom-china.org/t/atom/62)
+- ~~[Atom官方手册](https://atom-china.org/t/atom/62)~~
 - [Markdown中文文档](https://markdown-zh.readthedocs.io/en/latest/)
 - [Microsoft Visual Studio Code 中文手册](https://jeasonstudio.gitbooks.io/vscode-cn-doc/content/)
 
