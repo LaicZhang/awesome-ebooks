@@ -89,6 +89,7 @@
 - Nest
   - [next官方文档](https://nextjs.org/docs)
   - [聊点不一样的 Next.js](https://nextjs-book.innei.in/reading/guide/0.what-this)
+  - [Next.js 应用开发实践](https://nextjs-in-action-cn.taonan.lu/)
 
 ## Rust
 - [Rust语言圣经(Rust Course)](https://course.rs/about-book.html)
