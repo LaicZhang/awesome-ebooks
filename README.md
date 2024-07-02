@@ -60,6 +60,7 @@
 
 ## Web
 - [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) by 淘宝团队
+- [Nginx 入门学习笔记](https://github.com/jaywcjlove/nginx-tutorial)
 - [《TCP/IP网络编程》学习笔记](https://github.com/riba2534/TCP-IP-NetworkNote)
 - [JavaScript核心概念及实践](http://icodeit.org/jsccp/)
 - [ECMAScript 6 入门](http://es6.ruanyifeng.com/) by 阮一峰
