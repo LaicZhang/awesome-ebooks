@@ -151,6 +151,7 @@
 - [imooc wiki 多种语言入门教程](https://www.imooc.com/wiki/)
 - [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md)
 - [速查表](https://wangchujiang.com/reference/index.html)
+- [OI Wiki](https://oi-wiki.org/)
 
 # Related items
 - [bilibili-awesome](https://github.com/LaicZhang/awesome-ebooks/blob/master/bilibili-awsome.md)
